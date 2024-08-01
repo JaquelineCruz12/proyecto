@@ -103,7 +103,7 @@ h4{
     
 }
 .fondo{
-    background-image: url(fondo3.jpg);
+    background-image: url(../fondo3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 15rem;
